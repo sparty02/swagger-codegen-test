@@ -1,0 +1,6 @@
+{
+  "npmName": "petstore-angular",
+  "npmVersion": "0.1.0",
+  "snapshot": true,
+  "withInterfaces": true
+}
